@@ -1,0 +1,11 @@
+It is known that i is of type number and of nature 0.
+It is known that goal is of type number and of nature 10.
+Perchance is smaller i than goal then
+Announce i and
+Augment i and
+Ascend to 3.
+Perchance not then
+Announce goal and
+It is known that j is of type number and of nature 42 and
+Announce j.
+Announce goal.
